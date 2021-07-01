@@ -14,3 +14,9 @@ Eres libre de usar los componentes y la estructura de archivos que gustes. Utili
 Tip: Separa la información, la lógica y la declaración de los componentes.
 
 Si deseas puedes usar una API fake (mock) pero también puedes usar un archivo json estático ahí dentro en tu proyecto.
+
+Una vez lo tengas listo, lo subes a Github y nos mandas el link como comentario a este post. Nosotros revisaremos el código y te daremos consejos de cómo mejorarlo y que buenas prácticas agregar. Tienes hasta el viernes 2 de Julio al medio día (Hora Perú/Colombia)
+
+![Con titulo](https://github.com/lcarloszapatag/-Linktr.ee-Edteam/blob/main/reto-react-edteam.jpg?raw=true)
+
+
