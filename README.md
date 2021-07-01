@@ -1,5 +1,8 @@
 # -Linktr.ee-Edteam
-Crea una app en REACT y gana un mes premium en EDteam
+Crea una app en REACT y gana un mes premium en EDteam:
+
+[Participa en los retos   de EDweekend](https://ed.team/blog/5-formas-de-estudiar-gratis-en-edteam)
+![5 formas de estudiar gratis edteam](https://github.com/lcarloszapatag/-Linktr.ee-Edteam/blob/main/5-formas-de-estudiar-gratis-edteam.jpg?raw=true)
 
 Debes construir un clon de Linktr.ee con React. Una sola página que muestre primero tu foto, nombre y cargo y debajo un listado de N redes sociales tuyas. Cada red social debe tener:
 
